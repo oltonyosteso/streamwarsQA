@@ -1,2 +1,2 @@
-# StreamwarsPROD
-This is my Production streaming site.
+# StreamwarsQA
+This is the QA of streamwars streaming webapp.
